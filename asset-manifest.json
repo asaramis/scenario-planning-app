@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/scenario-planning-app/static/css/main.e6c13ad2.css",
-    "main.js": "/scenario-planning-app/static/js/main.614f2f09.js",
+    "main.css": "/scenario-planning-app/static/css/main.122411e1.css",
+    "main.js": "/scenario-planning-app/static/js/main.f35c7096.js",
     "static/js/453.b7373579.chunk.js": "/scenario-planning-app/static/js/453.b7373579.chunk.js",
     "index.html": "/scenario-planning-app/index.html",
-    "main.e6c13ad2.css.map": "/scenario-planning-app/static/css/main.e6c13ad2.css.map",
-    "main.614f2f09.js.map": "/scenario-planning-app/static/js/main.614f2f09.js.map",
+    "main.122411e1.css.map": "/scenario-planning-app/static/css/main.122411e1.css.map",
+    "main.f35c7096.js.map": "/scenario-planning-app/static/js/main.f35c7096.js.map",
     "453.b7373579.chunk.js.map": "/scenario-planning-app/static/js/453.b7373579.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.614f2f09.js"
+    "static/css/main.122411e1.css",
+    "static/js/main.f35c7096.js"
   ]
 }
